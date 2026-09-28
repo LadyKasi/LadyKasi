@@ -1,12 +1,12 @@
 # Karoline Silva
 
-✨ **Olá, mundo!**  
+**Olá, mundo!**  
 Sou uma estudante de desenvolvimento com um foco especial em **Frontend**. Atualmente, estou mergulhando no universo de **React** com **TypeScript**, explorando como criar interfaces modernas e funcionais.
 
-👩‍💻 Meu GitHub é um espaço para compartilhar meus aprendizados e projetos enquanto aprimoro minhas habilidades. Estou sempre em busca de novas formas de conectar criatividade e tecnologia.
+Meu GitHub é um espaço para compartilhar meus aprendizados e projetos enquanto aprimoro minhas habilidades. Estou sempre em busca de novas formas de conectar criatividade e tecnologia.
 
-🎨 Além de código, sou apaixonada por arte, o que me inspira a trazer um toque criativo para tudo o que faço.  
-🤝 Estou aberta a colaborações e adoro trocar ideias sobre design, desenvolvimento e inovação no mundo da tecnologia!
+Além de código, sou apaixonada por arte, o que me inspira a trazer um toque criativo para tudo o que faço.  
+Estou aberta a colaborações e adoro trocar ideias sobre design, desenvolvimento e inovação no mundo da tecnologia!
 
 ---
 
